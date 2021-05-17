@@ -1,0 +1,34 @@
+Inference:
+By the analysis of the umpire data  we get the names of the umpires who played the role of 1st umpire,2nd umpire,3rd umpire respectively.
+By analysing the toss won/lost data by teams it is very obivious that whether the team wins or losses the data it doesnot impact the result of the team that much.MI is the team that won the toss many times and kochi tuskers kerala is the least toss won team.On the past three seasons we could see that the team prefers to chase
+Chris Gayle is the one who won many man of the match awards
+Total number of Cities played:  32
+Total number of Venues played:  41
+Eden Garden is the venue where most matches are played
+Percentage of matches where toss winner is not same as winner:  48.0
+Percentage of matches where toss winner is same as winner:  52.0
+
+Percentage of matches where toss decision is 'field':  61.0
+Percentage of matches where toss decision is 'bat':  39.0
+
+Percentage of matches where result is 'normal':  98.0
+Percentage of matches where result is 'tie':  1.0
+Percentage of matches where result is 'no result':  1.0
+
+Percentage of matches where Duckworth–Lewis–Stern method (DLS) is applied :  3.0
+Percentage of matches where Duckworth–Lewis–Stern method (DLS) is not applied :  97.0
+
+Most singles is scored by Virat Kholi
+Most Doubles is scored by M.S Dhoni
+Most 4's is scored by Dhawan
+Most 6's is scored by Chris Gayle
+Most 3's is scored by David warner
+Most 0's is scored by Virat Kholi
+Most 7's is scored by kieron pollard and M.S.Dhoni
+Most 5's is scored by robin Uttappa
+
+  
+Conclusion:
+By clustering the batsmen to different groups namely non-batsmen,bowling-allrounder,balanced batsmen,Agressive batsmen,it makes it easy for the teams to select the batsment according to their stats and also to identify the right batsmen for the team to make a perfect mix in the team.It also makes it easy for the teams to prepare bowling plans against the batsmen.This cluster are very valuable for the teams to gain an insight on the players they are about to face.  
+
+
