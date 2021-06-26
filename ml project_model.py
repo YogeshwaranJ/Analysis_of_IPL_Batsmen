@@ -9,9 +9,6 @@ df = pd.read_csv('D:/datasets/most_runs_average_strikerate.csv')
 df.describe()
 
 
-# In[ ]:
-print(df.info())
-
 
 
 
